@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Nexa-Heavy';
+  src: url('Nexa-Heavy.eot?#iefix') format('embedded-opentype'),  url('Nexa-Heavy.otf')  format('opentype'),
+	     url('Nexa-Heavy.woff') format('woff'), url('Nexa-Heavy.ttf')  format('truetype'), url('Nexa-Heavy.svg#Nexa-Heavy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
